@@ -2,7 +2,7 @@
 
 A professional-grade, AI-assisted cybersecurity prototype designed to passively analyze Wi-Fi metadata, detect network misconfigurations, and evaluate real-time security risks using Machine Learning.
 
-![Live Dashboard - Hotspot Test](dashboard my hotspot.png)
+![Live Dashboard - Hotspot Test](dashboard_my_hotspot.png)
 
 
 ## 🎯 Project Overview
