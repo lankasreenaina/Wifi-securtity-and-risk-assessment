@@ -2,6 +2,9 @@
 
 A professional-grade, AI-assisted cybersecurity prototype designed to passively analyze Wi-Fi metadata, detect network misconfigurations, and evaluate real-time security risks using Machine Learning.
 
+![Live Dashboard - Hotspot Test](dashboard_test.png)
+
+
 ## 🎯 Project Overview
 
 This project provides an advanced network security monitoring framework. It utilizes **Isolation Forest** and **Random Forest** machine learning algorithms to learn a specific network's baseline and detect anomalies in real-time. It operates entirely on passive metadata capture—meaning no active packet contents are intercepted or disrupted—making it a safe and educational demonstration of defensive AI.
